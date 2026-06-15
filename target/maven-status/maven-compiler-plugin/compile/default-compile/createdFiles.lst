@@ -1,0 +1,4 @@
+com\firstcircle\banking\exception\InvalidAmountException.class
+com\firstcircle\banking\domain\Money.class
+com\firstcircle\banking\exception\AccountNotFoundException.class
+com\firstcircle\banking\exception\InsufficientFundsException.class
